@@ -1,0 +1,19 @@
+#servers version=20160909 001
+
+server=/he.net/74.82.42.42
+server=/ipv6.he.net/74.82.42.42
+server=/tunnelbroker.net/74.82.42.42
+server=/ipv6.he.net/2001:470:20::2
+server=/ipv6.google.com/2001:470:20::2
+server=/google.com/2001:470:20::2
+server=/google.com.hk/2001:470:20::2
+server=/youtube.com/2001:470:20::2
+server=/ytimg.com/2001:470:20::2
+server=/ipv6.google.com/2001:4860:4860::8844
+server=/ipv6.google.com.hk/2001:4860:4860::8844
+server=/google.com/2001:4860:4860::8888
+server=/google.com.hk/2001:4860:4860::8888
+server=/google.com/2001:4860:4860::8844
+server=/google.com.hk/2001:4860:4860::8844
+server=/facebook.com/2001:470:20::2
+server=/twitter.com/2001:470:20::2
