@@ -1,0 +1,130 @@
+nameserver 127.0.0.1
+#TencentDNS
+nameserver 119.29.29.29
+#Node 
+nameserver 113.99.136.16 
+nameserver 113.108.10.137
+nameserver 183.60.35.16
+nameserver 113.108.10.137
+nameserver 119.147.109.13
+nameserver 113.108.10.137
+nameserver 14.17.41.12
+nameserver 183.61.97.135
+nameserver 183.60.48.119
+nameserver 14.17.38.40
+nameserver 14.17.41.12
+nameserver 119.147.121.13
+nameserver 183.60.3.202
+nameserver 183.3.224.11
+nameserver 183.61.97.135
+nameserver 183.60.35.16
+#ALiDNS
+nameserver 223.5.5.5
+nameserver 223.6.6.6
+#BaiDuDNS
+nameserver 180.76.76.76
+#GoogleDNS
+nameserver 74.82.42.42
+#Node 
+nameserver 66.220.18.42
+nameserver 8.8.8.8
+#Node Private
+nameserver 74.125.41.1
+nameserver 74.125.41.2
+nameserver 74.125.41.3
+nameserver 74.125.41.9
+nameserver 74.125.41.11
+nameserver 74.125.41.13
+nameserver 74.125.41.12
+nameserver 74.125.41.16 
+nameserver 74.125.41.20
+nameserver 74.125.41.65
+nameserver 74.125.41.66
+nameserver 74.125.41.68
+nameserver 74.125.41.69
+nameserver 74.125.41.71
+nameserver 74.125.41.73
+nameserver 74.125.41.74
+#Node 
+nameserver 173.194.93.2
+nameserver 173.194.93.4
+nameserver 173.194.93.6
+nameserver 173.194.93.8
+nameserver 173.194.93.11
+nameserver 173.194.93.12
+nameserver 173.194.93.14
+nameserver 173.194.93.16
+nameserver 173.194.93.17
+nameserver 173.194.93.18
+nameserver 173.194.93.19
+nameserver 8.8.4.4
+#Node Private
+nameserver 74.125.47.3
+nameserver 74.125.47.9
+nameserver 74.125.47.11
+nameserver 74.125.47.134
+nameserver 74.125.47.137
+nameserver 74.125.47.138
+nameserver 74.125.47.141
+nameserver 74.125.47.145
+nameserver 74.125.47.147
+nameserver 74.125.47.148
+nameserver 74.125.47.153
+nameserver 74.125.73.66
+nameserver 74.125.73.68
+nameserver 74.125.73.69
+nameserver 74.125.73.74
+nameserver 74.125.73.76
+nameserver 74.125.73.79
+nameserver 74.125.73.80
+nameserver 74.125.73.81
+nameserver 74.125.73.85
+nameserver 74.125.73.87
+nameserver 74.125.181.200
+nameserver 74.125.181.206
+nameserver 2001:4860:4860::8844
+nameserver 2001:4860:4860::8888
+#OpenDNS 
+nameserver 208.67.220.220
+nameserver 208.67.222.222
+#Node ShenZhen Telecom
+nameserver 208.69.37.11
+nameserver 208.69.37.13
+nameserver 208.69.37.15
+nameserver 208.69.37.17
+nameserver 208.69.37.19
+nameserver 2001:470:20::2
+#HKDNS
+nameserver 202.181.224.2
+nameserver 205.252.144.228 
+#HK PLAYDNS
+nameserver 202.238.95.24 
+nameserver 204.238.95.26
+#HK Broadband Network DNS
+nameserver 203.80.96.9
+nameserver 203.80.96.10
+#Macao DNS
+nameserver 202.175.3.3 
+nameserver 202.175.3.8　
+#TW CHINA Telecom DNS 
+nameserver 168.95.1.1
+nameserver 168.95.192.1
+nameserver 168.95.192.2
+#OpenNIC
+#[Japan] 
+nameserver 106.186.17.181
+#[Japan NTT Plala DNS]
+nameserver 220.220.248.1 
+nameserver 220.220.248.2 
+nameserver 220.220.248.9 
+nameserver 220.220.248.10
+#[Singapore]
+nameserver 128.199.248.105
+#SingnetDNS	
+nameserver 165.21.83.88 
+nameserver 165.21.100.88
+#[Korea]
+nameserver 203.248.252.2
+#[Korea KT Kornet PLAYDNS]
+nameserver 168.126.63.1
+nameserver 168.126.63.2
