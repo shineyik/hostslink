@@ -4,6 +4,7 @@ all-servers
 # strict-order
 # 添加规则路径
 conf-file=/opt/DNSMasq/domainhosts/domainhosts.conf
+conf-file=/opt/DNSMasq/domainhosts/domainipv6hosts.conf
 addn-hosts=/opt/DNSMasq/adbhosts/adbhosts.conf
 addn-hosts=/opt/DNSMasq/adbapphosts/adbapphosts.conf
 addn-hosts=/opt/DNSMasq/addhosts/addhosts.conf
