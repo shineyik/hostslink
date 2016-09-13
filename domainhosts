@@ -1,0 +1,89 @@
+#domainhosts version=20160909 001
+
+# OpenSUSE↓
+address=/opensuse.org/195.135.221.134
+address=/.opensuse.org/195.135.221.134  
+# End OpenSUSE↑
+
+# 360cities↓
+address=/360cities.net/173.255.229.221 
+#END 360cities↑
+
+# Facebook↓
+address=/facebook.com/31.13.95.17
+address=/.facebook.com/31.13.95.17
+address=/.ak.facebook.com/31.13.95.17
+address=/.message-facebook.com/50.63.202.88
+address=/.channel.facebook.com/31.13.95.17
+address=/.static.ak.facebook.com/31.13.95.17
+address=/.vvv.facebook.com/31.13.95.17
+address=/.channel.facebook.com/31.13.95.17
+address=/.channel.facebook.com/31.13.95.17
+address=/.fbcdn.net/183.111.23.18
+address=/.fb.com/192.0.78.12
+address=/.fb.com/192.0.66.2
+address=/.fb.com/199.201.64.67
+address=/.akamaihd.net.com/2.16.162.11
+address=/.akamaihd.net.com/23.63.99.56
+address=/.akamaihd.net.com/23.63.99.88
+address=/.akamaihd.net.com/23.63.99.120
+address=/.akamaihd.net.com/23.63.99.123
+address=/.akamaihd.net.com/23.63.99.130
+address=/.akamaihd.net.com/23.63.99.131
+address=/.akamaihd.net.com/23.63.99.136
+address=/.akamaihd.net.com/23.63.99.144
+address=/.akamaihd.net.com/23.63.99.145
+address=/.akamaihd.net.com/23.63.99.160
+address=/.akamaihd.net.com/23.63.99.169
+address=/.akamaihd.net.com/23.63.99.170
+address=/.akamaihd.net.com/23.63.99.171
+address=/.akamaihd.net.com/23.63.99.178
+address=/.akamaihd.net.com/23.63.99.186
+address=/.akamaihd.net.com/23.63.99.201
+address=/.akamaihd.net.com/23.63.99.209
+address=/.akamaihd.net.com/23.63.99.242
+address=/.akamaihd.net.com/23.67.255.208
+address=/.akamaihd.net.com/23.205.168.10
+address=/.akamaihd.net.com/72.246.188.19
+address=/.akamaihd.net.com/72.246.188.82
+address=/.akamaihd.net.com/77.67.4.10
+address=/.akamaihd.net.com/77.67.4.11
+address=/.akamaihd.net.com/77.67.4.64
+address=/.akamaihd.net.com/77.67.4.73
+address=/.akamaihd.net.com/77.67.4.74
+address=/.fbcdn.net/31.13.95.17
+address=/.fbcdn.net/183.111.23.18
+address=/.xx.fbcdn.net/31.13.95.14
+address=/.vpn.tfbnw.net/183.111.23.18
+address=/.ak.fbcdn.net/23.34.45.177
+address=/.ak.fbcdn.net/23.207.122.24
+address=/.ak.fbcdn.net/183.111.23.18
+address=/.ak.fbcdn.net/184.28.188.146
+address=/.ak.fbcdn.net/184.28.188.152
+address=/.ak.fbcdn.net/184.28.188.153
+address=/.ak.fbcdn.net/184.28.188.154
+address=/.ak.fbcdn.net/184.28.188.171
+address=/.ak.fbcdn.net/184.28.188.240
+address=/.thefacebook.com/31.13.95.17
+address=/.fbsbx.com/31.13.95.17
+address=/.facebook.net/104.78.23.174
+# END fb↑
+
+#Blocked hosts and advertising address↓
+address=/.114so.cn/0.0.0.1
+address=/.hao.360.cn/0.0.0.1
+address=/.2345.com/0.0.0.1
+# END↑
+
+# Block DNS hijacking
+# GX↓
+bogus-nxdomain=42.156.141.75
+bogus-nxdomain=42.120.158.67
+bogus-nxdomain=140.205.172.1
+bogus-nxdomain=183.129.130.166
+bogus-nxdomain=183.129.130.165
+bogus-nxdomain=15.29.247.48
+bogus-nxdomain=15.29.247.48
+bogus-nxdomain=120.25.147.157
+bogus-nxdomain=113.12.83.3
+# END GX↑
