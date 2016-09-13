@@ -6,8 +6,86 @@ address=/.opensuse.org/195.135.221.134
 # End OpenSUSE↑
 
 # 360cities↓
-address=/360cities.net/173.255.229.221 
+address=/360cities.net/173.255.229.221  
 #END 360cities↑
+
+# virustotal↓
+address=/virustotal.com/74.125.34.46
+address=/virustotal.com/216.239.34.21
+#END virustotal↑
+
+# uploaded↓
+address=/uploaded.net/81.171.123.200
+address=/.uploaded.net/81.171.123.200
+# END uploaded↑
+
+# nitroflare↓
+address=/.nitroflare.com/104.25.143.6
+address=/.nitroflare.com/104.25.142.6 
+address=/.nitroflare.com/108.162.202.117
+# END nitroflare↑
+
+# Mdiafire↓
+address=/.mediafire.com/205.251.193.68   
+address=/.mediafire.com/205.251.195.153  
+address=/.mediafire.com/205.251.196.155  
+address=/.mediafire.com/205.251.198.77   
+# END Mediafire↑
+
+# Appannie↓
+address=/.appannie.com/69.167.138.64	
+# Appannie end↑
+
+# DMM Start↓
+address=/.dmm.com/106.186.27.62 
+address=/.dmm.co.jp/106.186.27.62     
+# DMM End↑
+
+# Wiki↓
+address=/.wikipedia.org/198.35.26.96
+address=/.wikipedia.org/198.35.26.112
+address=/.wikipedia.org/198.35.26.106	
+address=/.mediawiki.org/198.35.26.106
+address=/.wikibooks.org/91.198.174.192
+address=/.wikiquote.org/91.198.174.192
+address=/.wiktionary.org/91.198.174.192
+address=/.wikimedia.org/91.198.174.192
+address=/.wikimediafoundation.org/91.198.174.192
+address=/.mediawiki.org/91.198.174.192
+address=/.wikimedia.org/208.80.154.241
+address=/.wikimedia.org/208.80.154.11
+address=/.wikimedia.org/91.198.174.208
+# END Wiki↑
+
+# DeviantART↓
+address=/.deviantart.net/68.232.44.148
+address=/.deviantart.net/110.232.178.146
+address=/.deviantart.net/199.15.160.100
+address=/.deviantart.com/110.232.178.146
+address=/.deviantart.com/199.15.160.100
+address=/.deviantart.net/68.232.44.148
+address=/.deviantart.net/68.232.45.40
+address=/da-files.com/68.232.44.253
+# DeviantART End↑
+
+# Flickr↓
+address=/.flickr.com/106.10.137.23
+address=/.flickr.com/69.147.76.173
+address=/.flickr.com/208.71.44.31
+address=/.flickr.com/217.12.13.40
+address=/.flickr.com/217.12.13.41
+address=/.staticflickr.com/67.195.51.192 
+address=/.farm1.staticflickr.com/72.30.196.151
+address=/.farm1.staticflickr.com/68.142.214.43
+address=/.yimg.com/217.12.1.35
+address=/.yimg.com/216.115.100.102
+# END flkr↑
+
+# Archive Start
+address=/.archive.org/207.241.224.22
+address=/.us.archive.org/207.241.224.22	
+address=/.archive.org/207.241.226.190
+# Archive End
 
 # Facebook↓
 address=/facebook.com/31.13.95.17
@@ -68,6 +146,88 @@ address=/.thefacebook.com/31.13.95.17
 address=/.fbsbx.com/31.13.95.17
 address=/.facebook.net/104.78.23.174
 # END fb↑
+
+# Twitter Start
+address=/twitter.com/104.244.42.3
+address=/.twitter.com/104.244.42.3
+address=/t.co/104.244.42.5
+address=/twitpic.com/173.236.110.98
+address=/.twitpic.com/173.236.110.98
+address=/.twitpic.com/209.17.68.209
+address=/.twimg.com/199.96.57.3	
+address=/tweetdeck.com/104.244.42.132
+address=/.tweetdeck.com/104.244.42.132
+address=/.syndication.twimg.com/104.244.42.3	
+address=/.api.twitter.com/104.244.42.3
+address=/.cdn.twitter.com/104.244.42.3
+# Twitter End
+
+# Gmail web Start
+address=/.gmail.google.com/220.255.2.153
+address=/.mail.google.com/220.255.2.153
+# Gmail web End
+
+# Google Start
+address=/google.com/220.255.2.153
+address=/.google.com/220.255.2.153
+address=/.client.google.com/220.255.2.153
+address=/.client-channel.google.com/220.255.2.153
+address=/google.com.hk/220.255.2.153
+address=/.google.com.hk/220.255.2.153
+address=/google.com.tw/220.255.2.153
+address=/.google.com.tw/220.255.2.153
+address=/google.co.jp/220.255.2.153
+address=/.google.co.jp/220.255.2.153
+address=/google.com.sg/220.255.2.153
+address=/.google.com.sg/220.255.2.153
+address=/.docs.google.com/220.255.2.153
+address=/.drive.google.com/220.255.2.153
+# gstatic Start
+address=/.googleapis.com/220.255.2.153
+address=/.gstatic.com/220.255.2.153
+# gstatic End
+# Googleapis Start
+address=/.googleapis.com/220.255.2.153
+# Googleapis End
+address=/.googlehosted.com/220.255.2.153
+address=/.l.google.com/220.255.2.153
+address=/.vp.video.l.google.com/220.255.2.153
+address=/.video.l.google.com/220.255.2.153
+address=/.android.com/220.255.2.153
+address=/.withgoogle.com/220.255.2.153
+# Googleusercontent Start
+address=/.googleusercontent.com/220.255.2.153
+address=/.l.googleusercontent.com/220.255.2.153
+# Googleusercontent End
+# Google:stun Server Start
+address=/.stun.l.google.com/64.233.177.127
+# Google:stun Server End
+# Google:Gtalk	Start
+address=/talk.google.com/64.233.188.125
+address=/talk.l.google.com/64.233.188.125	
+# Google:Gtalk	End
+# Youtube↓ 
+address=/youtu.be/220.255.2.153
+address=/youtube.com/220.255.2.153
+address=/ytimg.com/220.255.2.153
+#address=/youtu.be/
+address=/youtube.com/158.69.145.48
+address=/googlevideo.com/220.255.2.153
+address=/youtube-nocookie.com/220.255.2.153
+#address=/googlevideo.com/
+#address=/youtube-nocookie.com/
+#instagram
+address=/instagram.com/31.13.70.52
+address=/.instagram.com/31.13.70.52
+address=/.ak.instagram.com/184.51.15.142
+address=/cdninstagram.com/31.13.84.52
+address=/.cdninstagram.com/31.13.84.52
+#+akamaihd HOSTS APP才可浏览图片
+#akamaihd/
+address=/akamaihd.net/184.51.15.142
+address=/.akamaihd.net/184.51.15.142
+#END Youtube↑
+# Google End
 
 #Blocked hosts and advertising address↓
 address=/.114so.cn/0.0.0.1
