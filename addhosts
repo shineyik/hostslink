@@ -1,4 +1,4 @@
-#addhosts version=20160909 001
+#addhosts version=20161001 001
 
 # Localhost↓
 # 127.0.0.1	localhost
@@ -53,9 +53,11 @@
 # END Mediafire↑
 
 # Chromeos.hexxeh.net↓
-172.217.25.211   chromeos.hexxeh.net
+64.233.178.121 chromeos.hexxeh.net
 74.125.198.121   chromeos.hexxeh.net
 172.217.4.147    chromeos.hexxeh.net
+172.217.25.211   chromeos.hexxeh.net
+216.58.201.51  chromeos.hexxeh.net
 # END Chromeos.hexxeh.net↑
 
 # Appannie↓
@@ -718,27 +720,27 @@
 
 
 # Amazon AWS Start
-27.0.1.125	ap-northeast-1.console.aws.amazon.com
-54.240.226.19	ap-southeast-1.console.aws.amazon.com
-54.240.195.197	ap-southeast-2.console.aws.amazon.com
-176.32.100.36	aws.amazon.com
-72.21.194.168	console.aws.amazon.com
-54.239.54.107	eu-central-1.console.aws.amazon.com
-178.236.4.251	eu-west-1.console.aws.amazon.com
-54.231.66.16	s3.amazonaws.com
-54.231.229.10	s3-ap-northeast-1.amazonaws.com
-54.231.242.150	s3-ap-southeast-1.amazonaws.com
-54.231.252.130	s3-ap-southeast-2.amazonaws.com
-72.21.203.5	s3-console-us-standard.console.aws.amazon.com
-54.231.192.41	s3-eu-central-1.amazonaws.com
-54.231.132.112	s3-eu-west-1.amazonaws.com
-54.231.253.78	s3-sa-east-1.amazonaws.com
-54.231.237.85	s3-us-west-1.amazonaws.com
-54.231.160.48	s3-us-west-2.amazonaws.com
-177.72.244.68	sa-east-1.console.aws.amazon.com
-204.246.162.198	us-west-1.console.aws.amazon.com
-54.240.250.61	us-west-2.console.aws.amazon.com
-54.231.34.41	github-cloud.s3.amazonaws.com
+54.239.31.69	aws.amazon.com
+54.239.30.25	console.aws.amazon.com
+54.239.96.90	ap-northeast-1.console.aws.amazon.com
+54.240.226.81	ap-southeast-1.console.aws.amazon.com
+54.240.193.125	ap-southeast-2.console.aws.amazon.com
+54.239.38.102	eu-west-1.console.aws.amazon.com
+54.239.54.102	eu-central-1.console.aws.amazon.com
+54.231.49.3	s3.amazonaws.com
+54.239.31.128	s3-console-us-standard.console.aws.amazon.com
+52.219.0.4	s3-ap-northeast-1.amazonaws.com
+54.231.242.170	s3-ap-southeast-1.amazonaws.com
+54.231.251.21	s3-ap-southeast-2.amazonaws.com
+52.218.16.140	s3-eu-west-1.amazonaws.com
+54.231.193.37	s3-eu-central-1.amazonaws.com
+52.92.72.2	s3-sa-east-1.amazonaws.com
+54.231.236.6	s3-us-west-1.amazonaws.com
+54.231.168.160	s3-us-west-2.amazonaws.com
+177.72.244.194	sa-east-1.console.aws.amazon.com
+176.32.114.59	us-west-1.console.aws.amazon.com
+54.240.254.230	us-west-2.console.aws.amazon.com
+52.216.80.48	github-cloud.s3.amazonaws.com
 54.231.48.40	github-com.s3.amazonaws.com
 # Amazon AWS End
 
@@ -822,7 +824,6 @@
 45.58.69.37	dl.dropboxusercontent.com
 162.125.18.2	photos-1.dropbox.com
 162.125.18.2	photos-2.dropbox.com
-162.125.18.2	photos-2.dropbox.com
 162.125.18.2	photos-3.dropbox.com
 162.125.18.2	photos-4.dropbox.com
 162.125.18.2	photos-5.dropbox.com
@@ -858,6 +859,8 @@
 31.13.95.17	secure.facebook.com
 31.13.95.17	zh-cn.facebook.com
 31.13.95.17	login.facebook.com
+31.13.95.17	i.facebook.com
+31.13.95.17	im.facebook.com
 #50.63.202.88	message-facebook.com
 31.13.95.17	attachments.facebook.com
 31.13.95.17	touch.facebook.com
@@ -994,7 +997,7 @@
 # Twitter Start
 104.244.42.3	twitter.com
 104.244.42.3	www.twitter.com
-104.244.42.5	t.co
+185.45.5.36	t.co
 104.244.42.3	api.twitter.com
 104.244.42.3	mobile.twitter.com
 104.244.42.3	support.twitter.com
@@ -1116,8 +1119,10 @@
 220.255.2.153	com.google
 220.255.2.153	admin.google.com
 220.255.2.153	accounts.google.com
+220.255.2.153	accounts.google.cn
 220.255.2.153	aboutme.google.com
 220.255.2.153	passwords.google.com
+220.255.2.153	privacy.google.com
 220.255.2.153	takeout.google.com
 220.255.2.153	bpui0.google.com
 220.255.2.153	cse.google.com
@@ -1283,7 +1288,9 @@
 220.255.2.153	uploads.stage.gdata.youtube.com
 220.255.2.153	answers.google.com
 220.255.2.153	wenda.google.com.hk
+220.255.2.153	analytics.googleblog.com
 220.255.2.153	android.googleblog.com
+220.255.2.153	research.googleblog.com
 220.255.2.153	security.googleblog.com
 220.255.2.153	gmail.googleblog.com
 220.255.2.153	chrome.googleblog.com
@@ -1369,8 +1376,10 @@
 220.255.2.153	calendar.google.com
 220.255.2.153	checkout.google.com
 220.255.2.153	wallet.google.com
+220.255.2.153	chrome.com
 220.255.2.153	www.chrome.com
 220.255.2.153	developer.chrome.com
+220.255.2.153	www.chromestatus.com
 220.255.2.153	chrome.google.com
 220.255.2.153	browsersync.google.com
 220.255.2.153	toolbarqueries.google.com
@@ -1378,6 +1387,7 @@
 220.255.2.153	toolbarqueries.clients.google.com
 220.255.2.153	chromium.org
 220.255.2.153	www.chromium.org
+220.255.2.153	cs.chromium.org
 220.255.2.153	dev.chromium.org
 220.255.2.153	blog.chromium.org
 64.233.188.121	bugs.chromium.org
@@ -1387,6 +1397,9 @@
 # 220.255.2.153	codereview.chromium.org
 #220.255.2.153	dl.google.com
 #220.255.2.153	dl.l.google.com
+220.255.2.153	www.appspot.com
+220.255.2.153	appspot.com
+220.255.2.153	apis-explorer.appspot.com
 220.255.2.153	betaspike.appspot.com
 220.255.2.153	hstspreload.appspot.com
 220.255.2.153	chrome-devtools-frontend.appspot.com
@@ -1621,12 +1634,14 @@
 220.255.2.153	plus.url.google.com
 220.255.2.153	plus.url.google.com.hk
 220.255.2.153	spaces.google.com
+220.255.2.153	pixel.google.com
 220.255.2.153	vr.google.com
 220.255.2.153	reader.google.com
 220.255.2.153	research.google.com
 220.255.2.153	sb.google.com
 220.255.2.153	sb-ssl.google.com
 220.255.2.153	safebrowsing.google.com
+220.255.2.153	search.google.com
 220.255.2.153	alt1-safebrowsing.google.com
 220.255.2.153	safebrowsing.clients.google.com
 220.255.2.153	safebrowsing-cache.google.com
@@ -1681,6 +1696,7 @@
 220.255.2.153	www.registry.google
 220.255.2.153	www.domains.google
 220.255.2.153	registry.google
+220.255.2.153	apikeys.clients6.google.com
 220.255.2.153	servicemanagement.clients6.google.com
 220.255.2.153	cloudconsole-pa.clients6.google.com
 220.255.2.153	iam.clients6.google.com
@@ -1766,7 +1782,7 @@
 220.255.2.153	chart.apis.google.com
 220.255.2.153	googleapis.com
 220.255.2.153	www.googleapis.com
-220.255.2.153	ajax.googleapis.com
+64.233.188.214	ajax.googleapis.com
 220.255.2.153	android.googleapis.com
 220.255.2.153	bigcache.googleapis.com
 220.255.2.153	chart.googleapis.com
@@ -1781,6 +1797,7 @@
 220.255.2.153	redirector-bigcache.googleapis.com
 220.255.2.153	translate.googleapis.com
 220.255.2.153	youtube.googleapis.com
+220.255.2.153	youtubei.googleapis.com
 220.255.2.153	mt0.googleapis.com
 220.255.2.153	mt1.googleapis.com
 220.255.2.153	mt2.googleapis.com
@@ -1790,11 +1807,12 @@
 220.255.2.153	mts2.googleapis.com
 220.255.2.153	mts3.googleapis.com
 220.255.2.153	ct.googleapis.com
-220.255.2.153	commondatastorage.googleapis.com
 220.255.2.153	securetoken.googleapis.com
 220.255.2.153	firebasestorage.googleapis.com
+220.255.2.153	www--google--com.safenup.googleusercontent.com
+220.255.2.153	www--google--com--hk.safenup.googleusercontent.com
 64.233.188.121	code.getmdl.io
-#216.58.221.48	storage.googleapis.com
+64.233.189.128	storage.googleapis.com
 #216.58.221.48	bucket.commondatastorage.googleapis.com
 #216.58.221.48	chromium-browser-symbols.commondatastorage.googleapis.com
 #216.58.221.48	c.commondatastorage.googleapis.com
@@ -1930,7 +1948,6 @@
 220.255.2.153	spreadsheets.l.google.com
 220.255.2.153	spreadsheets-china.l.google.com
 220.255.2.153	sslvideo-upload.l.google.com
-220.255.2.153	ssl-google-analytics.l.google.com
 220.255.2.153	static.cache.l.google.com
 220.255.2.153	suggestqueries.l.google.com
 220.255.2.153	tbn.l.google.com
@@ -2006,6 +2023,7 @@
 220.255.2.153	source.android.com
 220.255.2.153	a.android.com
 220.255.2.153	market.android.com
+220.255.2.153	mcs.android.com
 220.255.2.153	play.google.com
 220.255.2.153	payments.google.com
 220.255.2.153	android.clients.google.com
@@ -2028,9 +2046,9 @@
 220.255.2.153	googlehosted.l.googleusercontent.com
 220.255.2.153	googlecode.l.googleusercontent.com
 220.255.2.153	googlegroups.l.googleusercontent.com
+220.255.2.153	markuphelper.googleusercontent.com
 220.255.2.153	orkut-opensocial.l.googleusercontent.com
 220.255.2.153	photos-ugc.l.googleusercontent.com
-220.255.2.153	static.googleusercontent.com
 220.255.2.153	storage.l.googleusercontent.com
 220.255.2.153	storage-ugc.l.googleusercontent.com
 220.255.2.153	a-fc-opensocial.googleusercontent.com
@@ -3713,7 +3731,6 @@
 220.255.2.153	kickwithchrome.withgoogle.com
 220.255.2.153	candidatos.withgoogle.com
 220.255.2.153	trendstw.withgoogle.com
-220.255.2.153	spellup.withgoogle.com
 220.255.2.153	impactchallenge.withgoogle.com
 220.255.2.153	virustotalcloud.appspot.com
 220.255.2.153	eduproducts.withgoogle.com
@@ -3794,6 +3811,7 @@
 64.233.188.121	www.thegobridgeoglepuzzle.com
 64.233.188.121	www.googlezeitgeist.com
 64.233.188.121	news.dartlang.org
+64.233.188.121	dartpad.dartlang.org
 # Google:ghs End
 
 # Google:gcm Start
@@ -3857,8 +3875,9 @@
 # 203.208.41.144	pagead2.googlesyndication.com
 # 203.208.41.144	www.googletagservices.com
 # 203.208.41.144	www.google-analytics.com
-# 203.208.41.144	googleads.g.doubleclick.net
 # 203.208.41.144	ssl.google-analytics.com
+# 203.208.41.144	ssl-google-analytics.l.google.com
+# 203.208.41.144	googleads.g.doubleclick.net
 # 203.208.41.144	googletagmanager.com
 # 203.208.41.144	www.googletagmanager.com
 # 203.208.41.144	fonts.gstatic.com
@@ -4329,17 +4348,13 @@
 # MEGA End
 
 # OneDrive Start
-65.55.163.79	account.live.com
-#204.79.197.217	mail.live.com
-23.59.136.70	auth.gfx.ms
-131.253.61.66	login.live.com
 204.79.197.217	onedrive.live.com
-23.212.129.202	p.sfx.ms
+134.170.107.72	storage.live.com
 134.170.30.15	people.live.com
 134.170.30.15	profile.live.com
-134.170.111.96	skyapi.onedrive.live.com
-134.170.104.168	storage.live.com
-204.79.197.213	nhuhga.dm2301.livefilestore.com
+134.170.104.24	skyapi.onedrive.live.com
+23.41.136.70	auth.gfx.ms
+23.53.65.164	p.sfx.ms
 # OneDrive End
 
 # SoundCloud Start
@@ -4403,6 +4418,7 @@
 # Wikipedia Start
 198.35.26.96	zh.wikipedia.org
 198.35.26.96	zh.m.wikipedia.org
+# 91.198.174.192	en.wikipedia.org
 # Wikipedia End
 
 # WordPress Start
@@ -4488,27 +4504,26 @@
 69.147.76.173	flickr.com
 106.10.137.175	geo.query.yahoo.com
 217.12.13.41	geo.yahoo.com
+203.84.197.27	finance.yahoo.com
+121.101.144.112	hk.finance.yahoo.com
+27.123.201.252	tw.finance.yahoo.com
 119.160.254.215	h.yimg.com
 106.10.199.10	hk.news.yahoo.com
 106.10.138.240	hk.yahoo.com
 206.190.39.139	hsrd.yahoo.com
 106.10.193.20	hk-mg61.mail.yahoo.com
 119.160.254.215	l.yimg.com
-68.142.250.161	l.yimg.com
 106.10.193.20	login.yahoo.com
-124.108.97.193	login.yahoo.com
 208.71.44.31	m.flickr.com
 106.10.193.20	mail.yahoo.com
 203.84.197.27	mg.mail.yahoo.com
 106.10.193.20	na.edit.yahoo.com
 106.10.193.20	open.login.yahoo.com
-66.163.168.247	open.login.yahoo.com
 98.136.166.37	overview.mail.yahoo.com
 119.160.254.215	p.yimg.com
 216.115.100.102	s.yimg.com
 119.160.254.215	s1.yimg.com
 106.10.193.20	sa.edit.yahoo.com
-124.108.120.124	sa.edit.yahoo.com
 208.71.44.31	secure.flickr.com
 106.10.193.30	sp.analytics.yahoo.com
 106.10.137.23	static.flickr.com
@@ -4516,7 +4531,6 @@
 106.10.138.240	tw.yahoo.com
 121.101.144.116	up.flickr.com
 204.0.5.34	us.js2.yimg.com
-23.62.109.75	us.js2.yimg.com
 106.10.138.240	us.yahoo.com
 183.177.81.75	www.flickr.com
 106.10.138.240	www.yahoo.com
@@ -4552,16 +4566,15 @@
 # Medium end
 
 # Tumblr Start
-66.6.44.4	tumblr.com
-66.6.44.4	tumblr.co
-66.6.44.4	api.tumblr.com
-66.6.44.4	api.tumblr.com
-66.6.44.4	assets.tumblr.com
-66.6.44.4	www.tumblr.com
-66.6.44.4	cynicallys.tumblr.com
-66.6.32.34	mx.tumblr.com
+31.13.66.6	tumblr.com
+66.6.32.4	tumblr.co
+66.6.32.4	api.tumblr.com
+217.12.1.36	assets.tumblr.com
+31.13.72.54	www.tumblr.com
+66.6.32.22	cynicallys.tumblr.com
+93.184.216.97	mx.tumblr.com
 66.6.32.34	px.srvcs.tumblr.com
-54.192.86.85	media.tumblr.com
+54.230.84.5	media.tumblr.com
 54.192.98.136	30.media.tumblr.com
 54.230.75.191	31.media.tumblr.com
 54.192.98.136	32.media.tumblr.com
@@ -4583,11 +4596,9 @@
 209.197.3.20	48.media.tumblr.com
 192.229.237.98	49.media.tumblr.com
 209.197.3.20	50.media.tumblr.com
+#192.229.237.98	65.media.tumblr.com
+#192.229.237.98	66.media.tumblr.com
 209.197.3.20	90.media.tumblr.com
-209.197.3.20	65.media.tumblr.com
-192.229.237.98	65.media.tumblr.com
-192.229.237.98	66.media.tumblr.com
-209.197.3.20	67.media.tumblr.com
 209.197.3.20	91.media.tumblr.com
 192.229.237.98	92.media.tumblr.com
 209.197.3.20	93.media.tumblr.com
@@ -4597,21 +4608,10 @@
 192.229.237.98	97.media.tumblr.com
 209.197.3.20	98.media.tumblr.com
 209.197.3.20	99.media.tumblr.com
-68.232.35.63	secure.assets.tumblr.com
-54.230.74.176	secure.static.tumblr.com
-54.192.111.4	secure.assets.tumblr.com
-66.6.44.162	ls.srvcs.tumblr.com
-54.230.75.191	media.tumblr.com
-54.182.4.222	media.tumblr.com
-54.230.74.176	assets.tumblr.com
-54.230.213.24	assets.tumblr.com
-54.230.74.143	vt.tumblr.com
-54.230.74.216	vt.tumblr.com
-54.230.151.138	vt.tumblr.com
-52.84.189.141	vt.tumblr.com
-54.192.111.6	secure.static.tumblr.com
-54.230.213.90	secure.static.tumblr.com
-54.230.74.143	secure.static.tumblr.com
+217.12.1.35	secure.assets.tumblr.com
+52.85.81.16	secure.static.tumblr.com
+31.13.73.2	ls.srvcs.tumblr.com
+52.85.81.119	vt.tumblr.com
 # Tumblr End
 
 # Smartdnsproxy start
@@ -4629,8 +4629,29 @@
 # apkpure End
 
 #nytimes for mobile Start
-170.149.168.162	nytimes.com
-170.149.168.162	www.nytimes.com
+170.149.159.135	nytimes.com
+52.84.219.212	cn.nytimes.com
+52.84.219.212	m.cn.nytimes.com
+184.84.127.110	www.nytimes.com
+184.84.127.110	graphics8.nytimes.com
+184.84.127.110	json8.nytimes.com
+184.84.127.110	typeface.nytimes.com
+184.84.127.110	typeface.nyt.com
+184.84.127.110	a1.nyt.com
+184.84.127.110	s1.nyt.com
+184.84.127.110	i1.nyt.com
+184.84.127.110	static01.nyt.com
+184.84.127.110	static02.nyt.com
+184.84.127.110	static03.nyt.com
+184.84.127.110	static04.nyt.com
+184.84.127.110	static05.nyt.com
+184.84.127.110	static06.nyt.com
+184.84.127.110	static07.nyt.com
+184.84.127.110	static08.nyt.com
+184.84.127.110	static09.nyt.com
+184.84.127.110	js.nyt.com
+184.84.127.110	css.nyt.com
+184.84.127.110	int.nyt.com
 #nytimes for mobile End
 
 # telegram start
