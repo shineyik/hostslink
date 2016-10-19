@@ -183,7 +183,9 @@ address=/.google.com.sg/220.255.2.153
 address=/.docs.google.com/220.255.2.153
 address=/.drive.google.com/220.255.2.153
 # gstatic Start
+address=/.googleapis.com/203.208.43.66
 address=/.googleapis.com/220.255.2.153
+address=/.gstatic.com/203.208.43.66
 address=/.gstatic.com/220.255.2.153
 # gstatic End
 # Googleapis Start
