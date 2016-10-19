@@ -213,9 +213,11 @@ address=/ytimg.com/220.255.2.153
 #address=/youtu.be/
 address=/youtube.com/158.69.145.48
 address=/googlevideo.com/220.255.2.153
+address=/youtube-nocookie.com/64.233.162.81
 address=/youtube-nocookie.com/220.255.2.153
 #address=/googlevideo.com/
 #address=/youtube-nocookie.com/
+address=/.googlevideo.com/64.233.162.81
 address=/.googlevideo.com/203.208.40.16
 address=/.googlevideo.com/203.208.51.16
 #instagram
