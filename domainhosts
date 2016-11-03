@@ -1,4 +1,4 @@
-#domainhosts version=20160909 001
+#domainhosts version=20161103 001
 
 # OpenSUSE↓
 address=/opensuse.org/195.135.221.134
@@ -88,118 +88,66 @@ address=/.archive.org/207.241.226.190
 # Archive End↑
 
 # Facebook↓
-address=/facebook.com/31.13.95.17
-address=/.facebook.com/31.13.95.17
-address=/.ak.facebook.com/31.13.95.17
-address=/.message-facebook.com/50.63.202.88
-address=/.channel.facebook.com/31.13.95.17
-address=/.static.ak.facebook.com/31.13.95.17
-address=/.vvv.facebook.com/31.13.95.17
-address=/.channel.facebook.com/31.13.95.17
-address=/.channel.facebook.com/31.13.95.17
-address=/.fbcdn.net/183.111.23.18
-address=/.fb.com/192.0.78.12
-address=/.fb.com/192.0.66.2
-address=/.fb.com/199.201.64.67
-address=/.akamaihd.net.com/2.16.162.11
-address=/.akamaihd.net.com/23.63.99.56
-address=/.akamaihd.net.com/23.63.99.88
-address=/.akamaihd.net.com/23.63.99.120
-address=/.akamaihd.net.com/23.63.99.123
-address=/.akamaihd.net.com/23.63.99.130
-address=/.akamaihd.net.com/23.63.99.131
-address=/.akamaihd.net.com/23.63.99.136
-address=/.akamaihd.net.com/23.63.99.144
-address=/.akamaihd.net.com/23.63.99.145
-address=/.akamaihd.net.com/23.63.99.160
-address=/.akamaihd.net.com/23.63.99.169
-address=/.akamaihd.net.com/23.63.99.170
-address=/.akamaihd.net.com/23.63.99.171
-address=/.akamaihd.net.com/23.63.99.178
-address=/.akamaihd.net.com/23.63.99.186
-address=/.akamaihd.net.com/23.63.99.201
-address=/.akamaihd.net.com/23.63.99.209
-address=/.akamaihd.net.com/23.63.99.242
-address=/.akamaihd.net.com/23.67.255.208
-address=/.akamaihd.net.com/23.205.168.10
-address=/.akamaihd.net.com/72.246.188.19
-address=/.akamaihd.net.com/72.246.188.82
-address=/.akamaihd.net.com/77.67.4.10
-address=/.akamaihd.net.com/77.67.4.11
-address=/.akamaihd.net.com/77.67.4.64
-address=/.akamaihd.net.com/77.67.4.73
-address=/.akamaihd.net.com/77.67.4.74
-address=/.fbcdn.net/31.13.95.17
-address=/.fbcdn.net/183.111.23.18
+address=/.fb.com/192.0.78.13
+address=/fb.me/157.240.2.20
+address=/facebook.com/157.240.2.20
+address=/.facebook.com/157.240.2.20
+address=/.*.facebook.com/157.240.2.20
+address=/fbcdn.net/157.240.2.20
+address=/.fbcdn.net/157.240.2.20
+address=/.fbcdn.net/31.13.95.14
 address=/.xx.fbcdn.net/31.13.95.14
-address=/.vpn.tfbnw.net/183.111.23.18
-address=/.ak.fbcdn.net/23.34.45.177
-address=/.ak.fbcdn.net/23.207.122.24
-address=/.ak.fbcdn.net/183.111.23.18
-address=/.ak.fbcdn.net/184.28.188.146
-address=/.ak.fbcdn.net/184.28.188.152
-address=/.ak.fbcdn.net/184.28.188.153
-address=/.ak.fbcdn.net/184.28.188.154
-address=/.ak.fbcdn.net/184.28.188.171
-address=/.ak.fbcdn.net/184.28.188.240
-address=/.thefacebook.com/31.13.95.17
-address=/.fbsbx.com/31.13.95.17
-address=/.facebook.net/104.78.23.174
+address=/.ak.fbcdn.net/184.28.188.10
 # END fb↑
 
 # Twitter Start
-address=/twitter.com/104.244.42.3
-address=/.twitter.com/104.244.42.3
-address=/t.co/104.244.42.5
+address=/twitter.com/110.4.24.170
+address=/.twitter.com/110.4.24.170
+address=/t.co/185.45.5.36
 address=/twitpic.com/173.236.110.98
 address=/.twitpic.com/173.236.110.98
 address=/.twitpic.com/209.17.68.209
 address=/.twimg.com/199.96.57.3	
 address=/tweetdeck.com/104.244.42.132
-address=/.tweetdeck.com/104.244.42.132
-address=/.syndication.twimg.com/104.244.42.3	
-address=/.api.twitter.com/104.244.42.3
-address=/.cdn.twitter.com/104.244.42.3
+address=/.tweetdeck.com/104.244.42.132	
 # Twitter End
 
 # Gmail web Start
-address=/.gmail.google.com/220.255.2.153
-address=/.mail.google.com/220.255.2.153
+address=/.gmail.google.com/64.233.162.84
+address=/.mail.google.com/64.233.162.84
 # Gmail web End
 
 # Google Start
-address=/google.com/220.255.2.153
-address=/.google.com/220.255.2.153
-address=/.client.google.com/220.255.2.153
-address=/.client-channel.google.com/220.255.2.153
-address=/google.com.hk/220.255.2.153
-address=/.google.com.hk/220.255.2.153
-address=/google.com.tw/220.255.2.153
-address=/.google.com.tw/220.255.2.153
-address=/google.co.jp/220.255.2.153
-address=/.google.co.jp/220.255.2.153
-address=/google.com.sg/220.255.2.153
-address=/.google.com.sg/220.255.2.153
-address=/.docs.google.com/220.255.2.153
-address=/.drive.google.com/220.255.2.153
+address=/google.com/64.233.162.84
+address=/.google.com/64.233.162.84
+address=/.client.google.com/64.233.162.84
+address=/.client-channel.google.com/64.233.162.84
+address=/google.com.hk/64.233.162.84
+address=/.google.com.hk/64.233.162.84
+address=/google.com.tw/64.233.162.84
+address=/.google.com.tw/64.233.162.84
+address=/google.co.jp/64.233.162.84
+address=/.google.co.jp/64.233.162.84
+address=/google.com.sg/64.233.162.84
+address=/.google.com.sg/64.233.162.84
+address=/.docs.google.com/64.233.162.84
+address=/.drive.google.com/64.233.162.84
 # gstatic Start
-address=/.googleapis.com/203.208.43.66
-address=/.googleapis.com/220.255.2.153
-address=/.gstatic.com/203.208.43.66
-address=/.gstatic.com/220.255.2.153
+address=/.googleapis.com/64.233.162.84
+address=/.gstatic.com/64.233.162.84
 # gstatic End
 # Googleapis Start
-address=/.googleapis.com/220.255.2.153
+address=/.googleapis.com/64.233.162.84
 # Googleapis End
-address=/.googlehosted.com/220.255.2.153
-address=/.l.google.com/220.255.2.153
-address=/.vp.video.l.google.com/220.255.2.153
-address=/.video.l.google.com/220.255.2.153
-address=/.android.com/220.255.2.153
-address=/.withgoogle.com/220.255.2.153
+address=/.googlehosted.com/64.233.162.84
+address=/.l.google.com/64.233.162.84
+address=/.vp.video.l.google.com/64.233.162.84
+address=/.video.l.google.com/64.233.162.84
+address=/.android.com/64.233.162.84
+address=/.withgoogle.com/64.233.162.84
 # Googleusercontent Start
-address=/.googleusercontent.com/220.255.2.153
-address=/.l.googleusercontent.com/220.255.2.153
+address=/.googleusercontent.com/64.233.162.84
+address=/.l.googleusercontent.com/64.233.162.84
 # Googleusercontent End
 # Google:stun Server Start
 address=/.stun.l.google.com/64.233.177.127
@@ -209,17 +157,15 @@ address=/talk.google.com/64.233.188.125
 address=/talk.l.google.com/64.233.188.125	
 # Google:Gtalk	End
 # Youtube↓ 
-address=/youtu.be/220.255.2.153
-address=/youtube.com/220.255.2.153
-address=/ytimg.com/220.255.2.153
+address=/youtu.be/64.233.162.84
+address=/youtube.com/64.233.162.84
+address=/ytimg.com/64.233.162.84
 #address=/youtu.be/
 address=/youtube.com/158.69.145.48
-address=/googlevideo.com/220.255.2.153
-address=/youtube-nocookie.com/64.233.162.81
-address=/youtube-nocookie.com/220.255.2.153
+address=/googlevideo.com/64.233.162.84
+address=/youtube-nocookie.com/64.233.162.84
 #address=/googlevideo.com/
 #address=/youtube-nocookie.com/
-address=/.googlevideo.com/64.233.162.81
 address=/.googlevideo.com/203.208.40.16
 address=/.googlevideo.com/203.208.51.16
 #instagram
