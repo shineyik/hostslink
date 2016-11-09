@@ -2,22 +2,28 @@ nameserver 127.0.0.1
 #TencentDNS
 nameserver 119.29.29.29
 #Node 
-nameserver 113.99.136.16 
-nameserver 113.108.10.137
-nameserver 183.60.35.16
-nameserver 113.108.10.137
-nameserver 119.147.109.13
-nameserver 113.108.10.137
-nameserver 14.17.41.12
-nameserver 183.61.97.135
-nameserver 183.60.48.119
+nameserver 14.17.21.20
 nameserver 14.17.38.40
 nameserver 14.17.41.12
+nameserver 113.108.22.8
+nameserver 113.99.136.16 
+nameserver 113.108.2.117
+nameserver 113.108.10.137
+nameserver 116.31.64.43
+nameserver 119.147.109.13
 nameserver 119.147.121.13
-nameserver 183.60.3.202
 nameserver 183.3.224.11
-nameserver 183.61.97.135
+nameserver 119.147.32.248
+nameserver 183.3.229.12
+nameserver 183.3.229.15
+nameserver 183.60.3.202
 nameserver 183.60.35.16
+nameserver 183.60.48.119
+nameserver 183.60.163.145
+nameserver 183.61.97.135
+nameserver 183.61.97.135
+nameserver 183.61.224.148
+nameserver 219.133.40.12
 #ALiDNS
 nameserver 223.5.5.5
 nameserver 223.6.6.6
