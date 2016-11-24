@@ -1,4 +1,4 @@
-#domainhosts version=20161110 001
+#domainhosts version=20161125 001
 
 # OpenSUSE↓
 address=/opensuse.org/195.135.221.134
@@ -113,41 +113,41 @@ address=/.tweetdeck.com/104.244.42.132
 # Twitter End
 
 # Gmail web Start
-address=/.gmail.google.com/202.171.253.111
-address=/.mail.google.com/202.171.253.111
+address=/.gmail.google.com/61.91.161.217
+address=/.mail.google.com/61.91.161.217
 # Gmail web End
 
 # Google Start
-address=/google.com/202.171.253.111
-address=/.google.com/202.171.253.111
-address=/.client.google.com/202.171.253.111
-address=/.client-channel.google.com/202.171.253.111
-address=/google.com.hk/202.171.253.111
-address=/.google.com.hk/202.171.253.111
-address=/google.com.tw/202.171.253.111
-address=/.google.com.tw/202.171.253.111
-address=/google.co.jp/202.171.253.111
-address=/.google.co.jp/202.171.253.111
-address=/google.com.sg/202.171.253.111
-address=/.google.com.sg/202.171.253.111
-address=/.docs.google.com/202.171.253.111
-address=/.drive.google.com/202.171.253.111
+address=/google.com/61.91.161.217
+address=/.google.com/61.91.161.217
+address=/.client.google.com/61.91.161.217
+address=/.client-channel.google.com/61.91.161.217
+address=/google.com.hk/61.91.161.217
+address=/.google.com.hk/61.91.161.217
+address=/google.com.tw/61.91.161.217
+address=/.google.com.tw/61.91.161.217
+address=/google.co.jp/61.91.161.217
+address=/.google.co.jp/61.91.161.217
+address=/google.com.sg/61.91.161.217
+address=/.google.com.sg/61.91.161.217
+address=/.docs.google.com/61.91.161.217
+address=/.drive.google.com/61.91.161.217
 # gstatic Start
-address=/.googleapis.com/202.171.253.111
-address=/.gstatic.com/202.171.253.111
+address=/.googleapis.com/61.91.161.217
+address=/.gstatic.com/61.91.161.217
 # gstatic End
 # Googleapis Start
-address=/.googleapis.com/202.171.253.111
+address=/.googleapis.com/61.91.161.217
 # Googleapis End
-address=/.googlehosted.com/202.171.253.111
-address=/.l.google.com/202.171.253.111
-address=/.vp.video.l.google.com/202.171.253.111
-address=/.video.l.google.com/202.171.253.111
-address=/.android.com/202.171.253.111
-address=/.withgoogle.com/202.171.253.111
+address=/.googlehosted.com/61.91.161.217
+address=/.l.google.com/61.91.161.217
+address=/.vp.video.l.google.com/61.91.161.217
+address=/.video.l.google.com/61.91.161.217
+address=/.android.com/61.91.161.217
+address=/.withgoogle.com/61.91.161.217
 # Googleusercontent Start
-address=/.googleusercontent.com/202.171.253.111
-address=/.l.googleusercontent.com/202.171.253.111
+address=/.googleusercontent.com/61.91.161.217
+address=/.l.googleusercontent.com/61.91.161.217
 # Googleusercontent End
 # Google:stun Server Start
 address=/.stun.l.google.com/64.233.177.127
@@ -157,13 +157,13 @@ address=/talk.google.com/64.233.188.125
 address=/talk.l.google.com/64.233.188.125	
 # Google:Gtalk	End
 # Youtube↓ 
-address=/youtu.be/202.171.253.111
-address=/youtube.com/202.171.253.111
-address=/ytimg.com/202.171.253.111
+address=/youtu.be/61.91.161.217
+address=/youtube.com/61.91.161.217
+address=/ytimg.com/61.91.161.217
 #address=/youtu.be/
 address=/youtube.com/158.69.145.48
-address=/googlevideo.com/202.171.253.111
-address=/youtube-nocookie.com/202.171.253.111
+address=/googlevideo.com/61.91.161.217
+address=/youtube-nocookie.com/61.91.161.217
 #address=/googlevideo.com/
 #address=/youtube-nocookie.com/
 address=/.googlevideo.com/203.208.40.16
