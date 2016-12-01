@@ -1,11 +1,5 @@
 #addhosts version=20161125 001
 
-# Localhost↓
-# 127.0.0.1	localhost
-# 255.255.255.255	broadcasthost
-# ::1	localhost ip6-localhost ip6-loopback
-# END Localhost↑
-
 # Microsoft Support↓
 2.16.111.18     support.microsoft.com
 104.68.69.218   support.microsoft.com
