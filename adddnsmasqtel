@@ -3,9 +3,9 @@ all-servers
 # 按顺序查询上游DNS
 # strict-order
 # 添加规则路径
-conf-file=/etc/dnsmasq/DNSMasq/domainhosts/domainhosts.conf
-conf-file=/etc/dnsmasq/DNSMasq/domainhosts/domainipv6hosts.conf
-addn-hosts=/etc/dnsmasq/DNSMasq/adbhosts/adbhosts.conf
-addn-hosts=/etc/dnsmasq/DNSMasq/adbhosts/adbapphosts.conf
-addn-hosts=/etc/dnsmasq/DNSMasq/addhosts/addhosts.conf
-addn-hosts=/etc/dnsmasq/DNSMasq/addhosts/addipv6hosts.conf
+conf-file/system/etc/dnsmasq/DNSMasq/domainhosts/domainhosts.conf
+conf-file=/system/etc/dnsmasq/DNSMasq/domainhosts/domainipv6hosts.conf
+addn-hosts=/system/etc/dnsmasq/DNSMasq/adbhosts/adbhosts.conf
+addn-hosts=/system/etc/dnsmasq/DNSMasq/adbhosts/adbapphosts.conf
+addn-hosts=/system/etc/dnsmasq/DNSMasq/addhosts/addhosts.conf
+addn-hosts=/system/etc/dnsmasq/DNSMasq/addhosts/addipv6hosts.conf
