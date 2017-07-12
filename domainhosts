@@ -1,4 +1,4 @@
-#domainhosts version=20170618 001
+#domainhosts version=20170711 001
 
 # OpenSUSE↓
 address=/opensuse.org/195.135.221.134
@@ -157,9 +157,9 @@ address=/talk.google.com/64.233.188.125
 address=/talk.l.google.com/64.233.188.125	
 # Google:Gtalk	End
 # Youtube↓ 
-address=/youtu.be/216.58.200.33
-address=/youtube.com/216.58.200.33
-address=/ytimg.com/216.58.200.33
+address=/youtu.be/208.117.229.244
+address=/youtube.com/208.117.229.244
+address=/ytimg.com/208.117.229.244
 #address=/youtu.be/
 address=/youtube.com/158.69.145.48
 address=/googlevideo.com/216.58.200.33
