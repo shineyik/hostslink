@@ -1,4 +1,4 @@
-#addhosts version=20170924 001
+#addhosts version=20171003 001
 
 # Microsoft Support↓
 2.16.111.18     support.microsoft.com
@@ -1838,6 +1838,7 @@
 66.96.224.143	auth.keyhole.com
 66.96.224.143	geoauth.google.com
 66.96.224.143	finance.google.com
+66.96.224.143	finance.google.com.hk
 66.96.224.143	fusion.google.com
 66.96.224.143	fusiontables.google.com
 66.96.224.143	groups.google.com
@@ -5043,19 +5044,24 @@
 52.26.41.23	prod-chatman-ancillary-us-west-2.pscp.tv
 # Periscope End
 
-# pixiv Start
-210.129.120.43 pixiv.net
-210.129.120.43 www.pixiv.net
-210.129.120.43 app-api.pixiv.net
-210.129.120.43 accounts.pixiv.net
-210.129.120.43 touch.pixiv.net
-210.129.120.43 oauth.secure.pixiv.net
-210.140.131.144 source.pixiv.net
-210.140.131.145 imgaz.pixiv.net
-210.140.131.159 d.pixiv.org
-210.140.92.135 pixiv.pximg.net
-210.140.92.136 i.pximg.net
-# pixiv End
+# Pixiv Start
+210.129.120.55	www.pixiv.net
+210.129.120.43	touch.pixiv.net
+210.140.131.146	source.pixiv.net
+210.129.120.41	accounts.pixiv.net
+210.140.131.147	imgaz.pixiv.net
+210.129.120.44	app-api.pixiv.net
+210.129.120.48	oauth.secure.pixiv.net
+210.129.120.54	dic.pixiv.net
+210.140.131.145	comic.pixiv.net
+210.129.120.53	factory.pixiv.net
+74.120.148.205	g-client-proxy.pixiv.net
+210.140.170.179	sketch.pixiv.net
+210.129.120.52	payment.pixiv.net
+210.129.120.51	sensei.pixiv.net
+210.140.131.144	novel.pixiv.net
+210.129.120.49	ssl.pixiv.net
+# Pixiv End
 
 # Psiphon Start
 54.239.168.4	psiphon3.com
@@ -5378,6 +5384,7 @@
 198.35.26.96	zh-yue.wikipedia.org
 198.35.26.96	zh.wikipedia.org
 198.35.26.96	zh.m.wikipedia.org
+198.35.26.96	ug.wikipedia.org
 198.35.26.112	upload.wikimedia.org
 # Wikipedia End
 
