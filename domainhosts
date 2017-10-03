@@ -112,42 +112,38 @@ address=/tweetdeck.com/104.244.42.132
 address=/.tweetdeck.com/104.244.42.132	
 # Twitter End
 
-# Gmail web Start
-address=/.gmail.google.com/203.208.39.99
-address=/.mail.google.com/203.208.39.99
-# Gmail web End
-
 # Google Start
-address=/google.com/64.233.179.125
-address=/.google.com/64.233.179.125
-address=/.client.google.com/64.233.179.125
-address=/.client-channel.google.com/64.233.179.125
-address=/google.com.hk/64.233.179.125
-address=/.google.com.hk/64.233.179.125
-address=/google.com.tw/64.233.179.125
-address=/.google.com.tw/64.233.179.125
-address=/google.co.jp/64.233.179.125
-address=/.google.co.jp/64.233.179.125
-address=/google.com.sg/64.233.179.125
-address=/.google.com.sg/64.233.179.125
-address=/.docs.google.com/64.233.179.125
-address=/.drive.google.com/64.233.179.125
+address=/google.com/216.58.200.23
+address=/.google.com/216.58.200.23
+address=/google.com.hk/216.58.200.23
+address=/.google.com.hk/216.58.200.23
+address=/google.com.tw/216.58.200.23
+address=/.google.com.tw/216.58.200.23
+address=/google.co.jp/216.58.200.23
+address=/.google.co.jp/216.58.200.23
+address=/google.com.sg/216.58.200.23
+address=/.google.com.sg/216.58.200.23
+address=/.client.google.com/216.58.200.23
+address=/.client-channel.google.com/108.177.125.189
+address=/.docs.google.com/108.177.125.189
+address=/.drive.google.com/108.177.125.189
+address=/.drive.google.com/74.125.164.48
 # gstatic Start
-address=/.googleapis.com/64.233.179.125
-address=/.gstatic.com/64.233.179.125
+# address=/.googleapis.com/216.58.200.23
+address=/.gstatic.com/108.177.120.94
 # gstatic End
 # Googleapis Start
-address=/.googleapis.com/64.233.179.125
+address=/.googleapis.com/108.177.121.201
 # Googleapis End
-address=/.googlehosted.com/64.233.179.125
-address=/.l.google.com/64.233.179.125
-address=/.vp.video.l.google.com/64.233.179.125
-address=/.video.l.google.com/64.233.179.125
-address=/.android.com/64.233.179.125
-address=/.withgoogle.com/64.233.179.125
+address=/.googlehosted.com/216.58.200.23
+address=/.l.google.com/216.58.200.23
+address=/.vp.video.l.google.com/216.58.200.23
+address=/.video.l.google.com/216.58.200.23
+address=/.android.com/108.177.120.94
+address=/.withgoogle.com/64.233.188.151
 # Googleusercontent Start
-address=/.googleusercontent.com/64.233.179.125
-address=/.l.googleusercontent.com/64.233.179.125
+address=/.googleusercontent.com/108.177.119.132
+address=/.l.googleusercontent.com/108.177.119.132
 # Googleusercontent End
 # Google:stun Server Start
 address=/.stun.l.google.com/64.233.177.127
@@ -163,8 +159,8 @@ address=/ytimg.com/208.117.229.244
 #address=/youtu.be/
 address=/youtube.com/158.69.145.48
 address=/googlevideo.com/74.125.164.109
-address=/youtube-nocookie.com/64.233.179.125
-address=/ytimg.com/64.233.179.125
+address=/youtube-nocookie.com/216.58.200.23
+address=/ytimg.com/216.58.200.23
 #address=/googlevideo.com/
 #address=/youtube-nocookie.com/
 address=/.googlevideo.com/203.208.40.16
